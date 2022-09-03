@@ -27,7 +27,7 @@ body {
 
 .content-card {
   max-width: 114rem;
-  background-color: #fff;
+  background-color: hwb(0 100% 0%);
   margin: 0 auto;
   border-radius: 0.9rem;
   overflow: hidden;
@@ -246,4 +246,8 @@ body {
   font-weight: 600;
   color: #075985;
   padding: 4rem 0 0 8rem;
+}
+
+.property-msg-icon {
+  margin-right: 0.8rem;
 }
