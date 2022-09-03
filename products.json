@@ -1,0 +1,51 @@
+{
+  "nairobi": [
+    {
+      "image": "img/edmor.png",
+      "id": 1,
+      "name": "Edmor Residences Riverside",
+      "location": "Riverside drive, Nairobi",
+      "price": 34700,
+      "description": "Located in Nairobi, Edmor Residences Riverside offers accommodations with a patio or a balcony, free WiFi and flat-screen TV, as well as a shared lounge and a garden.% There's a private bathroom with shower and slippers in each unit, along with free toiletries. A continental breakfast is available each morning at the apartment.% A terrace is available for guests to use at Edmor Residences Riverside.",
+      "rating": 8.2,
+      "quote": "Very good",
+      "reviews": 505
+    },
+    {
+      "image": "img/prime-living.png",
+      "id": 2,
+      "name": "Prime Living Luxury Apartments",
+      "location": "Church road, Nairobi",
+      "price": 24360,
+      "description": "With city views, Prime Living Luxury Apartments is located in Nairobi and has a restaurant and a 24-hour front desk. Both WiFi and private parking are available at the apartment free of charge.% Each unit comes with a sofa, a seating area, a flat-screen TV, a well-fitted kitchen with a dining area, a safety deposit box and a private bathroom with free toiletries.% A dishwasher, a microwave and fridge are also featured, as well as an electric tea pot and a coffee machine.% Prime Living Luxury Apartments offers a continental or Full English/Irish breakfast.% Cycling can be enjoyed nearby.",
+      "rating": 8.1,
+      "quote": "Excellent",
+      "reviews": 130
+    },
+    {
+      "image": "img/taarifa.png",
+      "id": 3,
+      "name": "Taarifa Suites by Dunhill Serviced Apartments",
+      "location": "Westlands, Nairobi",
+      "price": 32900,
+      "description": "Located in Nairobi, a 4-minute walk from Nairobi National Museum and 2.9 km from Kenyatta International Conference Centre, Taarifa Suites by Dunhill Serviced Apartments provides accommodations with free WiFi, air conditioning, a restaurant and a fitness center.% Each unit comes with a sofa, a seating area, a flat-screen TV, a well-fitted kitchen, a safety deposit box and a private bathroom with a hairdryer. A microwave, a fridge and stovetop are also provided, as well as an electric tea pot.%Guests can also relax in the shared lounge area.",
+      "rating": 8.7,
+      "quote": "Very good",
+      "reviews": 236
+    },
+    {
+      "image": "img/aziz.png",
+      "id": 4,
+      "name": "L'Aziz Suites",
+      "location": "Parklands, Nairobi",
+      "price": 32900,
+      "description": "Located 2.1 km from Nairobi National Museum, L'Aziz Suites has accommodations with a shared lounge, a terrace and a 24-hour front desk for your convenience. The condo hotel features both WiFi and private parking free of charge.%Each unit comes with a sofa, a seating area, a flat-screen TV with satellite channels, a well-fitted kitchen with a dining area, a safety deposit box and a private bathroom with bathrobes. Some units feature a patio and/or a balcony with garden or city views.%Guests at L'Aziz Suites can enjoy a continental or a Full English/Irish breakfast.",
+      "rating": 8.8,
+      "quote": "Excellent",
+      "reviews": 399
+    }
+  ],
+  "nakuru": {},
+  "mombasa": {},
+  "kakamega": {}
+}
