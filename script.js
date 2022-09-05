@@ -9,6 +9,7 @@ const bookmarkBtn = document.querySelector('.header-text');
 const property = document.querySelector('.property');
 
 // State variables
+const bookmarks = [];
 
 // Change the copyright year dynamically
 const changeCopyYear = function () {
@@ -50,7 +51,7 @@ const displayProperty = function (house) {
         <div class="property-description">
           <div class="property-details">
             <h2 class="property-name">${house.name}</h2>
-            <button class="property-btn">Book now</button>
+            <button class="property-btn" data-id="${house.id}">Book now</button>
             <p class="property-location">${house.location}</p>
           </div>
           <p class="property-price">Starting from, ${formatNumber(
@@ -104,6 +105,17 @@ const getProperty = async function () {
       displayProperty(mainHouse);
     }
   });
+
+  // property.addEventListener('click', function (e) {
+  //   const btn = e.target.classList.contains('property-btn');
+  //   if (!btn) return;
+  //   const btnBook = e.target;
+  //   const id = btnBook.dataset.id;
+  //   const bookmarkedItem = currentProperty.find(prop => (prop.id = id));
+  //   bookmarks.push(bookmarkedItem);
+  //   btnBook.textContent = 'Booked';
+  //   btnBook.disabled = true;
+  // });
 };
 
 getProperty();

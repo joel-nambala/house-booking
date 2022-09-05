@@ -45,7 +45,76 @@
       "reviews": 399
     }
   ],
-  "nakuru": [{}],
-  "mombasa": [{}],
-  "kakamega": [{}]
+  "nakuru": [
+    {
+      "image": "img/elementaita.png",
+      "id": 5,
+      "name": "Lake Elementaita Mountain Lodge",
+      "location": "Mbaruk Road, Nakuru",
+      "price": 27580,
+      "description": "With lake views, Lake Elementaita Mountain Lodge is located in Nakuru and has a restaurant, a 24-hour front desk, bar, garden, year-round outdoor pool and playground. Both WiFi and private parking are available at the lodge free of charge.%Some of the units feature satellite flat-screen TV, a fully equipped kitchen with a microwave, and a private bathroom with a hot tub and bathrobes.%Guests at Lake Elementaita Mountain Lodge can enjoy a continental or a buffet breakfast.",
+      "rating": 8.8,
+      "quote": "Excellent",
+      "reviews": 80
+    },
+    {
+      "image": "img/shed.png",
+      "id": 6,
+      "name": "The Shed",
+      "location": "Njoro Road, Nakuru",
+      "price": 26880,
+      "description": "Located in Nakuru, just 6.8 km from Egerton Castle, The Shed has accommodations with a restaurant, an outdoor swimming pool, a bar and free WiFi. This self-catered vacation home has a garden and free private parking.% The vacation home comes with 2 bedrooms, 1 bathroom, bed linen, towels, a flat-screen TV, a dining area, a fully equipped kitchen, and a terrace with garden views.% A playground is available on site and fishing can be enjoyed within close proximity of the vacation home.",
+      "rating": 9.0,
+      "quote": "Wonderful",
+      "reviews": 20
+    }
+  ],
+  "mombasa": [
+    {
+      "image": "img/severin.png",
+      "id": 6,
+      "name": "Severin Sea Lodge",
+      "location": "Malindi Road, Mombasa",
+      "price": 34250,
+      "description": "Offering an outdoor pool, Severin Sea Lodge is located in Mombasa. Free WiFi access is available in this lodge.%The accommodations will provide you with air conditioning and a balcony. Featuring a shower, private bathroom also comes with a bath or shower and a hairdryer. You can enjoy garden view from the room. Extras include a seating area.%At Severin Sea Lodge you will find a restaurant, Safari restaurant offering à la carte, the Kisima Buffet Restaurant with its incredible view overlooking the Indian Ocean for breakfast and dinner and the Imani dhow restaurant.%An array of activities can be enjoyed on site or in the surroundings, including cycling, diving and windsurfing. The property offers free parking.%If you feel like visiting the surroundings, check out Nyali Beach 3.5 mi and Fort Jesus 5.5 mi. This lodge is 9.3 mi from Moi International Airport.",
+      "rating": 8.4,
+      "quote": "Very Good",
+      "reviews": 442
+    },
+    {
+      "image": "img/sebuleni.png",
+      "id": 7,
+      "name": "Sebuleni Suite, Nyali, Mombasa",
+      "location": "Neema avenue, Mombasa",
+      "price": 32460,
+      "description": "Featuring garden views and a shared lounge, Sebuleni Suite, Nyali, Mombasa features accommodations attractively set in Mombasa, within a short distance of Nyali Beach, Mamba Village Crocodile Farm and Nakumatt Cinemax.%Each unit comes with a sofa, a seating area, a TV with cable channels, a well-fitted kitchenette with a dining area, and a private bathroom with free toiletries. There is also a fridge, oven and a kettle.%Guests at the apartment can enjoy a continental breakfast.Breakfast is not provided at the property.% Sebuleni Suite, Nyali, Mombasa provides a sun terrace.",
+      "rating": 7.5,
+      "quote": "Good",
+      "reviews": 39
+    }
+  ],
+  "kakamega": [
+    {
+      "image": "img/kiota.png",
+      "id": 8,
+      "name": "Kiota Luxury Apartments",
+      "location": "Kakamega Road, Kakamega",
+      "price": 18560,
+      "description": "Featuring garden views, Kiota Luxury Apartments is located in Kakamega, 12.9 km from Kakamega Forest Station. This property has a balcony and free private parking.%This apartment has 2 bedrooms, a flat-screen TV, and a kitchen.%The apartment has a terrace.",
+      "rating": 5.8,
+      "quote": "Fair",
+      "reviews": 5
+    },
+    {
+      "image": "img/tausi.png",
+      "id": 9,
+      "name": "Tause Heights",
+      "location": "Kisumu - Kakamega Road, Kakamega",
+      "price": 18560,
+      "description": "Tausi Heights is located in Kakamega and offers a terrace. Providing free private parking, the apartment is 12.9 km from Kakamega Forest Station.%The apartment features 1 bedroom, 1 bathroom, bed linen, towels, a flat-screen TV, a fully equipped kitchen, and a balcony with garden views. For added convenience, the property can provide towels and bed linen for an extra charge.",
+      "rating": 10,
+      "quote": "Exceptional",
+      "reviews": 1
+    }
+  ]
 }
